@@ -1,6 +1,0 @@
-﻿Restaurante,Pedido_Minimo,Pag_Site_Debito,Pag_Site_Credito,Pag_Site_PIX,Pag_Site_Vale_Refeicao,Pag_Entrega_Debito,Pag_Entrega_Credito,Pag_Entrega_PIX,Pag_Entrega_Vale_Refeicao,Pag_Entrega_Dinheiro
-Mcdonald's - Drive Rondon Pacheco(dro),15.0,True,True,True,True,True,True,False,False,True
-Burger King - Floriano Peixoto,20.0,True,True,True,True,True,True,False,False,True
-Bali Burger - Hamburgueria Artesanal,24.9,True,True,True,False,True,True,False,True,True
-Açaí do Cerrado,15.0,True,True,True,False,False,False,False,False,False
-Pastelaria Afonso Pena,29.9,True,True,True,False,True,True,False,False,True
